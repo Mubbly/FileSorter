@@ -17,7 +17,7 @@ public class BaseSorter extends Main implements IBaseSorter {
         for(File file: Objects.requireNonNull(selectedFolder.listFiles())) {
             String fileName = file.getName();
             if (doesFileHaveExtension(fileName, fileExtensions)) {
-                // Counts how many document files there are and converts the number into string
+                // Counts how many files there are
                 fileCounter++;
                 // Create destination directory if it does not exist
                 createFolder(dest, destFolderName);

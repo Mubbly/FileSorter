@@ -11,8 +11,8 @@ import java.awt.event.*;
 import java.awt.*;
 
 /**
-* FileSorter is an application that lets an user choose a folder to sort
- * and then moves files to another locations based on their file extensions.
+* FileSorter is an application that lets users select a folder to sort
+ * and then separates files to other folders based on their file extensions.
 *
 * @author  Melissa Eenmaa
 * @version 1.2
