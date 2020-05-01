@@ -2,16 +2,16 @@
 
   <h1>File Sorter</h1>
 
-  <strong>Automatically separate your music, videos, pictures and documents from each other! :broom:</strong>
+  <strong>Automatically separate your music, videos, pictures and documents from each other!</strong></br>
 </div>
 
 ## :books: How it works
 
 * Select a folder  
 * Run sorting  
-* Files are moved to different folders* based on file types  
+* Files are moved to different folders* based on file types   
 
-:page_with_curl: * To default locations – documents to Windows default Documents folder etc.  
+*Default locations: documents to Windows default Documents folder etc.  
 
 ## :handshake: Supported files  
 
